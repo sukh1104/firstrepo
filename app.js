@@ -5,4 +5,5 @@ var sum = Addition.AddNumber(a,b);
 console.log('The sum of two numbers is ' + sum);
 product = Addition.MultiplyNumber(a,b);
 console.log('The product of two numbers is ' + product);
+console.log('this is my learning program');
 // console.log(Addition.AddNumber(5,7));
